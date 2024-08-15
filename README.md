@@ -1,0 +1,1 @@
+Esta to do list se realizo con la finalidad de aprender sobre el manejo del DOM con JS
